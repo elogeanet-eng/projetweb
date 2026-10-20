@@ -1,3 +1,9 @@
 # Projet Web - TP Git et GitHub
-Bienvenue sur le dépôt du TP d'initiation à Git et GitHub pour le groupe.
-Ce projet sert de support pour la manipulation des branches, des forks et des fusions (merges).
+
+## Présentation de l'équipe
+
+Noms des étudiants :
+- ANET Kouao Franck Eloge 
+- DAGOU Henoc Elie
+
+Date du jour : 19/11/2025
